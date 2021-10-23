@@ -2,7 +2,7 @@
 This repo is for the DATA-5100 Project
 
 
-# File descriptions
+## File descriptions
 train_photos.tgz - photos of the training set
 
 test_photos.tgz - photos of the test set

@@ -1,4 +1,5 @@
-# Keep-Calm-and-Yelp
+# Yelp Image Classification
+
 This repo is for the DATA-5100 Project
 
 
